@@ -1,6 +1,6 @@
 <?php
 
-namespace hakkahio\AzureSocialite;
+namespace mikielis\AzureSocialite;
 
 use Illuminate\Routing\Controller;
 use Laravel\Socialite\Facades\Socialite;

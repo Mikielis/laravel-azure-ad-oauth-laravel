@@ -1,6 +1,6 @@
 <?php
 
-namespace hakkahio\AzureSocialite\Middleware;
+namespace mikielis\AzureSocialite\Middleware;
 
 use Illuminate\Contracts\Auth\Guard;
 use \Illuminate\Contracts\Auth\Authenticatable;
